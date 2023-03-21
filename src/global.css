@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    background-color: var(--corPrincipal);
 }
 
 .container {
@@ -13,6 +14,6 @@
 }
 
 :root {
-    --corPrincipal: #f9ca24;
-    --corSecundaria: #111;
+    --corPrincipal: #e4e4e4;
+    --corSecundaria: #049434;
 }
